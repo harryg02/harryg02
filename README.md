@@ -1,6 +1,6 @@
 # Harry Gu
 
-**A Designer who codes** | Inclusive Design | A11y
+**A Designer who codes** | Inclusive Design | A11y | Front-End
 
 I don't design *for* marginalized users—I design *with* them.
 

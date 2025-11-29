@@ -1,16 +1,19 @@
-## Hi there 👋
+# Harry Gu
 
-<!--
-**harryg02/harryg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Designer who codes** | Inclusive Design for Underserved Communities
 
-Here are some ideas to get you started:
+I don't design *for* marginalized users—I design *with* them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), I spent 3 months attending weekly meetings with formerly incarcerated community members before opening Figma. That proximity shaped every design decision.
+
+## What I Do & Study
+- **Inclusive Design** — WCAG AA/AAA, cognitive accessibility, designing for users with autism, low digital literacy, and motor disabilities
+- **Community-Embedded Research** — Usability testing with marginalized populations, not just personas
+- **Design + Development** — Figma → React Native → Shipped
+
+## Current
+🎓 MS in Information @ University of Michigan School of Information
+
+## Links
+- 🎨 [Portfolio](https://harrygu.art)
+- 💼 [LinkedIn](https://linkedin.com/in/harrygu-ux)

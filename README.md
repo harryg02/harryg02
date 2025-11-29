@@ -13,7 +13,7 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 ## What I Do & Study
 - **Inclusive Design** — WCAG AA/AAA, cognitive accessibility, designing for users with autism, low digital literacy, and motor disabilities
 - **Community-Embedded Research** — Usability testing with marginalized populations, not just personas
-- **Design + Development** — Figma → React Native → Shipped
+- **End-to-End** — Research → Figma → React Native → Shipped
 
 ## Current
 🎓 MS in Information @ University of Michigan School of Information

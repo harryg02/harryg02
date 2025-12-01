@@ -10,7 +10,7 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 - My early projects (Kosmos, Exodus Place) prioritized the accessibility barriers my users faced most directly: color contrast, cognitive load, motor accessibility, and clear visual hierarchy.
 - At University of Michigan, I've since formalized my technical implementation skills—semantic HTML, ARIA labels, keyboard navigation, skip links, and auditing with WAVE/Axe. 
 
-### Engineering & Product Impact
+## Engineering & Product Impact
 I am a pragmatic builder. I prioritize **ROI** and **Performance** over reinventing the wheel.
 
 *   **📉 Saved 3-4 Months Dev Time:** For *Kosmos Resort*, I proposed and engineered an [open-source calendar widget](https://github.com/kosmosharry/mews-availability.js) to replace a full system rebuild.

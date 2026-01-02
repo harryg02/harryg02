@@ -16,9 +16,11 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 *   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study
-- **Inclusive Design** — WCAG AA/AAA, Accessibility
-- **Community-Embedded Research** — Usability testing with marginalized populations, not just personas
-- **End-to-End** — Research → Figma → React Native → Shipped
+- **Human-Computer Interaction**: Fitts’ Law, Gestalt Principles, Visual Attention, Working Memory
+- **Research & Design**: Qualitative Research, Design Thinking (Divergence/Convergence), Affinity Mapping, Personas, QOC Rationale
+- **Inclusive Design** — Accessibility Audits (WAVE/Axe, Keyboard Navigation/Tabbing)
+- **Community-Embedded Research** — Experience from within + Usability testing 
+- **End-to-End Delivery** — Research → Figma → React Native → Shipped
 
 ## Current
 MS in Information @ University of Michigan School of Information

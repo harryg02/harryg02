@@ -18,9 +18,10 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 ## What I Do & Study
 - **Human-Computer Interaction**: Fitts’ Law, Gestalt Principles, Visual Attention, Working Memory
 - **Research & Design**: Qualitative Research, Design Thinking (Divergence/Convergence), Affinity Mapping, Personas, QOC Rationale
-- **Inclusive Design** — Accessibility Audits (WAVE/Axe, Keyboard Navigation/Tabbing)
-- **Community-Embedded Research** — Experience from within + Usability testing 
-- **End-to-End Delivery** — Research → Figma → React Native → Shipped
+- **Inclusive Design**: Accessibility Audits (WAVE/Axe, Keyboard Navigation/Tabbing)
+- **Community-Embedded Research**: Experience from within + Usability testing
+- **Front-End Development**: React Native, HTML/CSS/JS
+- **End-to-End Delivery**: Research → Figma → React Native → Shipped
 
 ## Current
 MS in Information @ University of Michigan School of Information

@@ -16,7 +16,7 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 *   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study
-- **Inclusive Design** — WCAG AA/AAA, cognitive accessibility, designing for users with autism, low digital literacy, and motor disabilities
+- **Inclusive Design** — WCAG AA/AAA, Accessibility
 - **Community-Embedded Research** — Usability testing with marginalized populations, not just personas
 - **End-to-End** — Research → Figma → React Native → Shipped
 

@@ -1,6 +1,6 @@
 # Harry Gu
 
-**A Designer who codes** | Inclusive Design | A11y | Front-End
+**A Designer who codes** | Product Design | UX design | Embedded Research | A11y | Front-End
 
 I don't design *for* marginalized users—I design *with* them.
 
@@ -11,9 +11,9 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 - At University of Michigan, I've since formalized my technical implementation skills—semantic HTML, ARIA labels, keyboard navigation, skip links, and auditing with WAVE/Axe. 
 
 ## Engineering & Product Impact
-*   **📉 Reduced 80% Dev Scope:** For *Kosmos Resort*, I proposed and engineered an [open-source calendar widget](https://github.com/kosmosharry/mews-availability.js) to replace a full system rebuild.
-*   **📈 +84% User Retention:** Redesigned the *Kosmos* web experience, increasing long-term retention by 84% after WSJ feature and reducing bounce rate by 10% (serving **8,000+ monthly visitors**).
-*   **📱 Trauma-Informed Architecture:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
+*   **Reduced 80% Dev Scope:** For *Kosmos Resort*, I proposed and engineered an [open-source calendar widget](https://github.com/kosmosharry/mews-availability.js) to replace a full system rebuild.
+*   **+84% User Retention:** Redesigned the *Kosmos* web experience, increasing long-term retention by 84% after WSJ feature and reducing bounce rate by 10% (serving **8,000+ monthly visitors**).
+*   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study
 - **Inclusive Design** — WCAG AA/AAA, cognitive accessibility, designing for users with autism, low digital literacy, and motor disabilities
@@ -21,8 +21,8 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 - **End-to-End** — Research → Figma → React Native → Shipped
 
 ## Current
-🎓 MS in Information @ University of Michigan School of Information
+MS in Information @ University of Michigan School of Information
 
 ## Links
-- 🎨 [Portfolio](https://harrygu.art)
-- 💼 [LinkedIn](https://linkedin.com/in/harrygu-ux)
+- [Portfolio](https://harrygu.art)
+- [LinkedIn](https://linkedin.com/in/harrygu-ux)

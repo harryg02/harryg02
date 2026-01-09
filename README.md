@@ -6,6 +6,12 @@ I don't design *for* marginalized users—I design *with* them.
 
 When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before opening Figma, I showed up. I attended weekly meetings with formerly incarcerated community members for 3 months. That proximity shaped every design decision. 
 
+## How I Work
+
+**Embed first, systematize second.** I start by understanding users in their environment, then translate those insights into scalable systems: design tokens, component libraries, and documentation that make accessibility the default. 
+
+**Pragmatic simplicity.** If two solutions achieve the same outcome, I choose the one that's easier to maintain, document, and scale. At Kosmos, stakeholders wanted a custom booking system. I proposed a lightweight calendar widget deep-linked to their existing engine—same UX, 80% less scope.
+
 ## My Accessibility Journey
 - My early projects (Kosmos, Exodus Place) prioritized the accessibility barriers my users faced most directly: color contrast, cognitive load, motor accessibility, and clear visual hierarchy.
 - At University of Michigan, I've since formalized my technical implementation skills—semantic HTML, ARIA labels, keyboard navigation, skip links, and auditing with WAVE/Axe. 
@@ -16,7 +22,7 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 *   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study
-- **Human-Computer Interaction**: Fitts’ Law, Gestalt Principles, Visual Attention, Working Memory
+- **Human-Computer Interaction**: Designing for cognitive load, motor accessibility, and attention under stress
 - **Research & Design**: Qualitative Research, Design Thinking (Divergence/Convergence), Affinity Mapping, Personas, QOC Rationale
 - **Inclusive Design**: Accessibility Audits (WAVE/Axe, Keyboard Navigation/Tabbing)
 - **Community-Embedded Research**: Experience from within + Usability testing

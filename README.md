@@ -12,7 +12,7 @@ When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before
 
 ## Product Impacts
 *   **Reduced 80% Dev Scope:** For *Kosmos Resort*, I proposed and engineered an [open-source calendar widget](https://github.com/kosmosharry/mews-availability.js) to replace a full system rebuild.
-*   **+84% User Retention:** Redesigned the *Kosmos* web experience, increasing long-term retention by 84% after WSJ feature and reducing bounce rate by 10% (serving **8,000+ monthly visitors**).
+*   **-10% Bounce Rate:** Redesigned the *Kosmos* web experience, reducing bounce rate by 10% (serving **6,800+ monthly visitors**).
 *   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study

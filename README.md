@@ -1,16 +1,8 @@
 # Harry Gu
 
-**A Designer who codes** | Product Design | UX design | Embedded Research | A11y | Front-End
+Web Design | UX Research | A11y | Front-End Dev
 
-I don't design *for* marginalized users—I design *with* them.
-
-When I built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html), before opening Figma, I showed up. I attended weekly meetings with formerly incarcerated community members for 3 months. That proximity shaped every design decision. 
-
-## How I Work
-
-**Embed first, systematize second.** I start by understanding users in their environment, then translate those insights into scalable systems: design tokens, component libraries, and documentation that make accessibility the default. 
-
-**Pragmatic simplicity.** If two solutions achieve the same outcome, I choose the one that's easier to maintain, document, and scale. At Kosmos, stakeholders wanted a custom booking system. I proposed a lightweight calendar widget deep-linked to their existing engine—same UX, 80% less scope.
+I'm Harry Gu. I research, design, and code. I start by watching people doing things, then build solutions where accessibility is the default. I treat design like science: form a hypothesis, ship it, measure whether it actually worked. I prefer pragmatic simplicity. If two solutions achieve the same outcome, I choose the one that's easier to maintain, document, and scale. Graphic Design at Calvin University, UX & Dev at University of Michigan - Ann Arbor. Fluent in English and Mandarin.
 
 ## My Accessibility Journey
 - My early projects (Kosmos, Exodus Place) prioritized the accessibility barriers my users faced most directly: color contrast, cognitive load, motor accessibility, and clear visual hierarchy.

@@ -6,7 +6,7 @@ I'm Harry Gu. I research, design, and code. I start by watching people doing thi
 
 ## My Accessibility Journey
 - My early projects (Kosmos, Exodus Place) prioritized the accessibility barriers my users faced most directly: color contrast, cognitive load, motor accessibility, and clear visual hierarchy.
-- At University of Michigan, I've since formalized my technical implementation skills—semantic HTML, ARIA labels, keyboard navigation, skip links, and auditing with WAVE/Axe. 
+- At University of Michigan, I've since formalized my technical implementation skills: semantic HTML, ARIA labels, keyboard navigation, skip links, and auditing with WAVE/Axe. 
 
 ## Product Impacts
 *   **Reduced 80% Dev Scope:** For *Kosmos Resort*, I proposed and engineered an [open-source calendar widget](https://github.com/kosmosharry/mews-availability.js) to replace a full system rebuild.

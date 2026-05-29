@@ -14,12 +14,12 @@ I'm Harry Gu. I research, design, and code. I start by watching people doing thi
 *   **React Native Design Sytems:** Built [ReentryGuide GR](https://harrygu.art/reentryguide-gr.html) (React Native/Expo). Deployed to community pilot group to aid formerly incarcerated individuals in accessing essential resources. 
 
 ## What I Do & Study
-- **Human-Computer Interaction**: Designing for cognitive load, motor accessibility, and attention under stress
+- **Human-Computer Interaction**: Designing for cognitive load and accessibility
 - **Research & Design**: Qualitative Research, Design Thinking (Divergence/Convergence), Affinity Mapping, Personas, QOC Rationale
 - **Inclusive Design**: Accessibility Audits (WAVE/Axe, Keyboard Navigation/Tabbing)
 - **Community-Embedded Research**: Experience from within + Usability testing
-- **Front-End Development**: React Native, HTML/CSS/JS
-- **End-to-End Delivery**: Research → Figma → React Native → Shipped
+- **Front-End Development**: React Native, Next.js, HTML/CSS/JS
+- **End-to-End Delivery**: Research → Figma → Code → Shipped
 
 ## Current
 MS in Information @ University of Michigan School of Information

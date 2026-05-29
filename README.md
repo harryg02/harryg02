@@ -1,7 +1,7 @@
 # Harry Gu
 
 Web Design | UX Research | A11y | Front-End Dev
-![cover](cover.png)
+![A dark, lo-fi digital sketch of a tech workstation. A person is viewed from behind, sitting relaxed with hands behind their head, facing a large computer monitor. To the left, a console features a glowing neon sign that reads "HARRYGU".](cover.png)
 I'm Harry Gu. I research, design, and code. I start by watching people doing things, then build solutions where accessibility is the default. I treat design like science: form a hypothesis, ship it, measure whether it actually worked. I prefer pragmatic simplicity. If two solutions achieve the same outcome, I choose the one that's easier to maintain, document, and scale. Graphic Design at Calvin University, UX & Dev at University of Michigan - Ann Arbor. Fluent in English and Mandarin.
 
 ## My Accessibility Journey
